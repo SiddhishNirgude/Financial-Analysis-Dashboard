@@ -3,6 +3,10 @@
 ## 📌 Project Overview
 This project aims to develop **interactive financial and management dashboards** using **Power BI**, helping top management monitor business performance at a glance. The dashboards provide insights into **revenue, expenses, project profitability, financial KPIs, and operational metrics**.
 
+## 📊 Dashboard Preview
+
+![Financial Analysis Dashboard](Financial Analysis Dashoard.jpg)
+
 ## 📊 Key Features
 ### **Financial Analysis Dashboard**
 - Revenue Under Contract & Earned Revenue
