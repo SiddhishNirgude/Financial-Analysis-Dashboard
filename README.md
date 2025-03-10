@@ -5,7 +5,7 @@ This project aims to develop **interactive financial and management dashboards**
 
 ## 📊 Dashboard Preview
 
-![Financial Analysis Dashboard](Financial Analysis Dashoard.jpg)
+![Financial Analysis Dashboard](Financial%20Analysis%20Dashboard.jpg)
 
 ## 📊 Key Features
 ### **Financial Analysis Dashboard**
