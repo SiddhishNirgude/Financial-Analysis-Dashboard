@@ -55,7 +55,3 @@ The dashboards feature:
 - 📄 **[Management Dashboard Instructions](Assignment%205%20-%20Managment%20Dashboard%20CD1.pdf)**
 - 📄 **[Medical Data Instructions](Medical%20Data%20-Instructions-9-June.pdf)**
 
-## 🔧 How to Use
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/Financial-Dashboard.git
